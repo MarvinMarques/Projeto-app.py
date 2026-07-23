@@ -24,7 +24,7 @@ def finalizar_app():
     exibir_subtitulo("finalizar app")
 
 def voltar_ao_menu_principal():
-    input("\nDigite uma Tecla para Voltar ao Menu ")
+    input("\nAperte Enter para Voltar ao Menu ")
     main()
 
 def opção_invalida():
